@@ -1,0 +1,7 @@
+{
+  "name": "UnexMessages",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}

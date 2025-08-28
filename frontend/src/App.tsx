@@ -40,7 +40,7 @@ import '@ionic/react/css/display.css';
 import '@ionic/react/css/palettes/dark.system.css';
 
 /* Theme variables */
-import './theme/variables.css';
+import './theme/variables.scss';
 import { MessagesIcon } from './core/icons/messages';
 import { ClockIcon } from './core/icons/clock';
 import { UserIcon } from './core/icons/user';

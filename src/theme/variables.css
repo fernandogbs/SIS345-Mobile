@@ -1,2 +1,42 @@
 /* For information on how to create your own theme, please see:
 http://ionicframework.com/docs/theming/ */
+
+
+                                            /*---Leiam---*/
+
+/*Cores do Projeto:
+    Fonte Principal: #171457 (Roxo)
+    Fonte secundaria: #58677a (cinza)
+    Fonte do horario: #828282 (cinza mais "transparente")
+    
+    Botoes, notificações de mensagens #2f80ec  (Azul)
+    
+    Background: #fefefe (branco)
+    */
+
+:root {
+ 
+ /*Top Bar--->*/
+  --ion-toolbar-background: #fefefe; /* fundo da top bar */ 
+  --ion-toolbar-color: #211c5c;        /* texto da top bar */
+  
+
+ /*Fonte--->*/
+  --ion-font-family: "sofia-pro-variable", sans-serif; /* fonte global */
+  --ion-variation-settings: 'wght' 461.64383, 'slnt' 0;
+
+
+    
+}
+
+.botao-tela-inicial {
+  color: white;
+  border: none;
+  padding: 12px 24px;
+  border-radius: 8px;
+  font-size: 16px;
+  cursor: pointer;
+  margin: 8px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+}
+
